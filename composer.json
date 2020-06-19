@@ -1,6 +1,6 @@
 {
 				"name" : "webcrew/kurs_php",
-				"description" : "https://www.youtube.com/playlist?list=PLKmH7u1gA9hoZfnMf-m3TFOmqhSn1wQs7",
+				"description" : "Kurs https://www.youtube.com/playlist?list=PLKmH7u1gA9hoZfnMf-m3TFOmqhSn1wQs7 ;Odcinki od 15 w górę.",
 				"require" : {
       "php-64bit" : "^7.4"
 				},
@@ -17,7 +17,7 @@
 												"role" : "Developer",
 												"homepage" : "http://webjasiek.pl"
 								}
-			],
-			"type": "library",
-			"keywords": ["webjasiek","webcrew","kurs php"]
+				],
+				"type": "library",
+				"keywords": ["015","webjasiek","webcrew","kurs php"]
 }
