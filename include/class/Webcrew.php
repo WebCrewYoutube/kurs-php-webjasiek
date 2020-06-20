@@ -19,6 +19,5 @@ class Webcrew extends \stdClass {
 	function __destruct() {
 		e("Everyone wants to go to heaven but nobody wants to die...");
 	}
-
 }
 ?>
