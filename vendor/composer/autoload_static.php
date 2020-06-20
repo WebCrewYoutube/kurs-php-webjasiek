@@ -21,6 +21,7 @@ class ComposerStaticInit2b142cefb4e346f0036d0e1c1bc18637
         'webcrew\\' => 
         array (
             0 => __DIR__ . '/../..' . '/include/class',
+            1 => __DIR__ . '/../..' . '/include/posterity',
         ),
     );
 

@@ -2,3 +2,4 @@
 015/php_errors.log
 composer.lock
 composer.lock
+*.lock

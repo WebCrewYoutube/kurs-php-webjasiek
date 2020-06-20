@@ -7,7 +7,7 @@
 				},
 				"autoload" : {
 								"psr-4": {
-												"webcrew\\" : "include/class/"
+												"webcrew\\" : [ "include/class/", "include/posterity/"]
 								},
 							 "files": ["include/browse.php"]
 				},
@@ -24,6 +24,5 @@
 								"webcrew kurs php","webjasiek kurs php"],
 				"license": [
        "GPL-3.0-or-later"
-    ],
-				"version" : "1.0.0"
+    ]
 }

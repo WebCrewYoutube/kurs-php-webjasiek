@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'webcrew\\' => array($baseDir . '/include/class'),
+    'webcrew\\' => array($baseDir . '/include/class', $baseDir . '/include/posterity'),
 );
