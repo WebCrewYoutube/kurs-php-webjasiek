@@ -13,5 +13,7 @@ $ob=100; // poszedł destruktor, bo do obiektu klasy Webcrew nie odnosi się ju�
 
 hr();
 
-$ob = new webcrew\Imagination();
+use webcrew\Imagination as Img;
+$ob = new Img; // wszystko pięknie załadowane! Niech żyją ułatwienia.
+hr();
 ?>
