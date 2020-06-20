@@ -20,8 +20,8 @@
 								}
 				],
 				"type": "library",
-				"keywords": ["webjasiek","webcrew","webcrew kurs php",
-								"webcrew/webjasiek", "webjasiek kurs php"],
+				"keywords": ["webjasiek","webcrew",
+								"webcrew kurs php","webjasiek kurs php"],
 				"license": [
        "GPL-3.0-or-later"
     ]
