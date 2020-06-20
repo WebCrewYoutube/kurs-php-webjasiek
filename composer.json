@@ -1,6 +1,6 @@
 {
 				"name" : "webcrew/kurs_php",
-				"description" : "It is a training project used during education.Course language: Polish. Kurs https://www.youtube.com/playlist?list=PLKmH7u1gA9hoZfnMf-m3TFOmqhSn1wQs7 Odcinki od 15 w górę.",
+				"description" : "It is a training project used during education. Kurs https://www.youtube.com/playlist?list=PLKmH7u1gA9hoZfnMf-m3TFOmqhSn1wQs7",
 				"require" : {
 								"php-64bit" : "^7.4",
 								"ext-mbstring" : "*"
