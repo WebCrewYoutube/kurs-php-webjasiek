@@ -16,6 +16,9 @@ class Webcrew extends \stdClass {
 	function authors() {
 		return browse($this->authors,1,"\n");
 	}
+	function __destruct() {
+		e("Everyone wants to go to heaven but nobody wants to die...");
+	}
 
 }
 ?>

@@ -19,5 +19,6 @@
 								}
 				],
 				"type": "library",
-				"keywords": ["015","webjasiek","webcrew","kurs php"]
+				"keywords": ["015","webjasiek","webcrew","kurs php"],
+				"version" : "1.0.0"
 }
