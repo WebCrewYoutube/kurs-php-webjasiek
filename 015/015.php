@@ -3,8 +3,11 @@
 $loader = require __DIR__ . '/../vendor/autoload.php';
 
 $ob = new webcrew\Webcrew;
+
 $ob->authors();
+
 $ob->newvar="blue or yellow?";
+
 browse($ob,2);
 
 // przy okazji :
