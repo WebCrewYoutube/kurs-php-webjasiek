@@ -10,4 +10,10 @@ $ob=100; // poszedł destruktor, bo do obiektu klasy Webcrew nie odnosi się ju�
 // *Destroyer of all worlds, annihilator of all beings* // - prawda, że lepsza?
 
 hr();
+for ($i=1; $i<=30; $i++) {
+	echo str_repeat('.', 30-$i), str_repeat('+',$i), "\r";
+	sleep(1);
+	str_repeat(chr(8),30);
+}
+echo eol;
 ?>
