@@ -15,5 +15,7 @@ for ($i=1; $i<=30; $i++) {
 	sleep(1);
 	str_repeat(chr(8),30);
 }
+
+
 echo eol;
 ?>
