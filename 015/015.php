@@ -12,7 +12,7 @@ $ob=100; // poszedł destruktor, bo do obiektu klasy Webcrew nie odnosi się ju�
 hr();
 for ($i=1; $i<=30; $i++) {
 	echo str_repeat('.', 30-$i), str_repeat('+',$i), "\r";
-	sleep(1);
+	usleep(25000);
 	str_repeat(chr(8),30);
 }
 
