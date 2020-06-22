@@ -19,4 +19,5 @@ hr();
 use webcrew\Imagination as Img;
 $ob = new Img; // wszystko pięknie załadowane! Niech żyją ułatwienia.
 hr();
+
 ?>
